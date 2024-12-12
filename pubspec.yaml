@@ -74,6 +74,8 @@ flutter:
     - web/assets/images/radar_map.jpg
     - web/assets/images/rainy.png
     - web/assets/images/sunny.png
+    - web/assets/images/snow.png
+
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

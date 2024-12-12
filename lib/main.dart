@@ -59,6 +59,8 @@ class _WeatherScreenState extends State<WeatherScreen> {
         return 'web/assets/images/rainy.png';
       case 'clear':
         return 'web/assets/images/sunny.png';
+      case 'snow':
+        return 'web/assets/images/snow.png';
       default:
         return 'web/assets/images/background1.jpg'; // Fallback
     }
